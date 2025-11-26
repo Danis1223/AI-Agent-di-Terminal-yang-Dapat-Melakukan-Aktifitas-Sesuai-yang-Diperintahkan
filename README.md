@@ -1,2 +1,2 @@
-# AI-Agent-di-Terminal-yang-Dapat-Melakukan-Aktifitas-Sesuai-yang-Diperintahkan
+# AI-Agent-di-Terminal 
 TUGAS MACHILE LEARNIG
